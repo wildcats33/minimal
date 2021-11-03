@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Maneesh Rampally</p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/maneeshrampally/">LinkedIn</a> |
+  <a href="https://github.com/wildcats33">GitHub</a>
+  
+  <br>   
+  I am a web solutions architect with over 15 years of experience.
+  Constantly exploring and learning new technologies.
+  Currently exploring AI/Machine Learning
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
